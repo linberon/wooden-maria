@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+html {
+	background-color: black;
+}
+
+#band-name {
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+nav {
+	width: 100%;
+	z-index: 99;
+}
+
+#home {
+	float: left;
+}
+
+ul {
+	list-style: none;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+li {
+	display: inline;
+}
+
+#video-container {
+	background-color: #cc9d1c;
+	padding: 10px;
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	height: inherit;
+}
+
+#homepage-content {
+	text-align: center;
+	height: 50%;
+}
+
+#social-links {
+	float: right;
+}
